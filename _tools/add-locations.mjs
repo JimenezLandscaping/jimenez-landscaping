@@ -19,7 +19,7 @@ const office = (name) =>
 const locations = `<ul class="elementor-icon-list-items">
 ${office("Taft Office")}
 ${item("google-map", "702 Garratt Street Taft, CA 93268")}
-${item("envelope", "Support@Landscapesbyjimenez.com", "mailto:Support@Landscapesbyjimenez.com")}
+${item("envelope", "support@landscapingbyjimenez.com", "mailto:support@landscapingbyjimenez.com")}
 ${item("telephone", "Main Line: (805) 444-9837", "tel:+18054449837")}
 ${office("Bakersfield Office")}
 ${item("google-map", "13710 Ivory Chalice Dr<br>Bakersfield, CA 93314<br>United States")}
